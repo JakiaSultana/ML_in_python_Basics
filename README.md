@@ -1,7 +1,7 @@
 # Simple_Linear_Regression_on_Real_state_Data
 An overview on a dataset of Real state. Analysis of the data set with comparing row and column using Scatterplot along with proper naming and plot analysis.
-> # The attributes of this datasets are:
-> - size - The size of the apartment
+# The attributes of this datasets are:
+   >size - The size of the apartment
 > - Price of the house
 >#Data Visualizations Objectives:
 >-Importing necessary python packages
